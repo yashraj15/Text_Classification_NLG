@@ -13,3 +13,4 @@ The data used will comprise of long text inputs like articles, literature, revie
   <img src="/https://github.com/yashraj15/Text_Classification_NLG/blob/main/wcplotnew/Figure%202021-05-13%20194031%20(0).png" width="100" />
   <img src="/https://github.com/yashraj15/Text_Classification_NLG/blob/main/wcplotnew/Figure%202021-05-13%20194031%20(1).png" width="100" /> 
 </p>
+![image](/https://github.com/yashraj15/Text_Classification_NLG/blob/main/wcplotnew/Figure%202021-05-13%20194031%20(0).png) 
